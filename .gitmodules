@@ -1,0 +1,6 @@
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/navyrandom/portfolio.git
+[submodule "portfolio-back"]
+	path = portfolio-back
+	url = https://github.com/navyrandom/portfolio-back.git
